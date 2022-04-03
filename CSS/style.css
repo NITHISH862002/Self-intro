@@ -1,0 +1,35 @@
+
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+.middle-container{
+    width: 200px;
+    height: 200px;
+    border:  solid 20px;
+    background-color: red;
+} 
+.top-container{
+    background-color: #E4F9F5;
+    border:solid 10px;
+    
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    border: solid  10px;
+    background-color: blue;
+}
+
+.red{
+    height: 100px;
+    width: 100px;
+   background-color: red;
+   position: relative;
+   top: 50px;
+}
